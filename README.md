@@ -1,9 +1,9 @@
-House Price Prediction - Regression Projec
+# House Price Prediction - Regression Projec
 
-Project Overview
+## Project Overview
 This project aims to predict house prices based on several features using various regression algorithms. By analyzing factors such as area, number of rooms, location, and other relevant characteristics, we develop a model that can estimate house prices with high accuracy. The project is an excellent exercise in exploring regression techniques and evaluating their performance on real-world data.
 
-**Table of Contents**
+## Table of Contents
 Project Objective
 Dataset
 Technologies Used
@@ -14,7 +14,7 @@ Conclusion
 Contact
 Project Objective
 
-**The goal of this project is to:**
+### The goal of this project is to:
 
 Explore and preprocess a dataset of housing features.
 Apply various regression models to predict house prices.
@@ -23,7 +23,7 @@ Use visualizations to interpret the relationships between different features and
 Dataset
 The dataset contains various features that influence house prices such as:
 
-**Area (m²)**
+### Area (m²)
 Number of Bedrooms
 Location
 Age of the Property
