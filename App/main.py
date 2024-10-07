@@ -2,7 +2,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from home import home_page
-from 
+from predictions import pred_page
 
 st.set_page_config(
     layout="wide",
