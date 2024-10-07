@@ -2,6 +2,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from home import home_page
+from 
 
 st.set_page_config(
     layout="wide",
@@ -19,3 +20,6 @@ with st.sidebar:
 
 if selected=="Home":
     home_page()
+
+elif selected == 'Prediction':
+    pred_page()
